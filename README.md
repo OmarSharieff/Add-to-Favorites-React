@@ -19,12 +19,12 @@ MyMusic Favorites is a web application that allows users to add their favorite s
 ### Steps
 1. **Clone the repository**: 
    ```
-   git clone https://github.com/yourusername/mymusic-favorites.git
+   git clone https://github.com/OmarSharieff/Add-to-Favorites-React.git
    ```
 
 2. **Navigate to the project directory**:
    ```
-   cd mymusic-favorites
+   cd Add-to-Favorites-React
    ```
 
 3. **Install dependencies**:
