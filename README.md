@@ -37,8 +37,6 @@ MyMusic Favorites is a web application that allows users to add their favorite s
    npm run dev
    ```
 
-5. **Access the application**:
-   Once the server is running, open your web browser and go to `http://localhost:3000` to view the MyMusic Favorites application locally.
 
 ## Contributing
 Contributions are welcome! If you find any bugs or have suggestions for improvements, feel free to open an issue or create a pull request.
